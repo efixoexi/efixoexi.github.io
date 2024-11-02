@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://efixoexi.github.io/HPd/sitemap_index.txt
+Sitemap: https://efixoexi.github.io/NAO/sitemap_index.txt
+Sitemap: https://efixoexi.github.io/WhU/sitemap_index.txt
+Sitemap: https://efixoexi.github.io/idb/sitemap_index.txt
